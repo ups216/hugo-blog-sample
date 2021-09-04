@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://example.org/"
+baseurl = "https://agreeable-pebble-01cfb8600.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Hugo Bootstrap v4 Blog"
 theme = "hugo-theme-bootstrap4-blog"
