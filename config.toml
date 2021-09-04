@@ -14,7 +14,7 @@ summaryLength = 50
 #disqusShortname = "XYW"
 
 [permalinks]
-  posts = "/:year/:month/:linktitle/"
+  posts = "/:filename/"
   page = "/:slug/"
 
 [[menu.sidebar]]

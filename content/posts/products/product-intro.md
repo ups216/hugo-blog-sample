@@ -2,6 +2,7 @@
 author: "Lei Xu"
 date: 2021-09-04
 linktitle: smartide-product-page
+slug: smartide-product-page
 menu:
   main:
     parent: tutorials
